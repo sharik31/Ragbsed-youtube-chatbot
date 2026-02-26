@@ -1,4 +1,4 @@
-# 🎥 YouTube Video QA Chatbot  
+#  YouTube Video QA Chatbot  
 
 This is a **Streamlit web app** that lets you:  
 
